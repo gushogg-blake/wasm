@@ -1,0 +1,8 @@
+{
+	"name": "wasm",
+	"version": "1.0.0",
+	"devDependencies": {
+		"tree-sitter-cli": "^0.20.0",
+		"tree-sitter-svelte": "^0.8.1"
+	}
+}
